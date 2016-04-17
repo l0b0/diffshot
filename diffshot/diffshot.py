@@ -1,6 +1,6 @@
 from __future__ import print_function
 
 
-class PythonSkeleton(object):
+class ScreenshotDiffer(object):
     def hello(self):
         print('Hello world!')
